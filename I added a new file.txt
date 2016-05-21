@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 I added a new line i this new file whith name andrey. Da vidim sega kakvo shte stane
+=======
+I added a new line i this new file whith name andrey 
+Test from web
+>>>>>>> origin/master
